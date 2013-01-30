@@ -1,0 +1,15 @@
+{
+  "name": "consoledot",
+  "version": "0.0.0",
+  "description": "A better console.log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "colors": "~0.6.0-1"
+  },
+  "repository": "",
+  "author": "Chris Madrigal",
+  "license": "BSD"
+}
